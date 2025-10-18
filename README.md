@@ -1,4 +1,4 @@
-<p align="center"><img src=debian-logo.png width="300"></p><br>
+<p align="center"><img src=logo.svg width="300"></p><br>
 
 Manually install Debian trixie/testing with LUKS2 and BTRFS with subvolumes and Encrypted Swap: 
 

@@ -11,7 +11,7 @@ Manually install OpenBSD with Encryption and EFI:
 ## Pre-installation setup
 
 Download latest snapshot https://ftp.openbsd.org/pub/OpenBSD/snapshots/amd64/
-###Install####
+### Install
 
 Boot to Installer.
 ````

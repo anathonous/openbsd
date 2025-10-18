@@ -1,4 +1,4 @@
-WORK IN PROGRESS
+WORK IN PROGRESS Oct 18th / 2025
 <p align="center"><img src=logo.svg width="300"></p><br>
 
 Manually install OpenBSD with Encryption and EFI: 

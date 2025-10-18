@@ -1,14 +1,12 @@
+WORK IN PROGRESS
 <p align="center"><img src=logo.svg width="300"></p><br>
 
-Manually install Debian trixie/testing with LUKS2 and BTRFS with subvolumes and Encrypted Swap: 
+Manually install OpenBSD with Encryption and EFI: 
 
  - EFI Boot Partition
- - LUKS2 Swap Partition
- - LUKS2 Container
- - BTRFS Partition
- - 2 BTRFS Subvolumes
+ - Encrypted Root
 
-# Debian installation (debootstrap)
+# OpenBSD Install
 
 ## Pre-installation setup
 

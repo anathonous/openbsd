@@ -10,9 +10,7 @@ Manually install OpenBSD with Encryption and EFI:
 
 ## Pre-installation setup
 
-Boot from latested stable or testing release of Debian/Gentoo LiveISO. I personally used a working Gentoo Environment.
-
-Installed needed packages
+Download latest snapshot https://ftp.openbsd.org/pub/OpenBSD/snapshots/amd64/
 
     apt install debbootstrap cryptsetup
 On Gentoo
